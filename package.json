@@ -1,0 +1,17 @@
+{
+  "name": "API-NodeJs-Express-MongoDB",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/BrunoBelarminoNog/API-NodeJs-Express-MongoDB.git",
+  "author": "Bruno Belarmino <brunobelarm.nog@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.7"
+  }
+}
